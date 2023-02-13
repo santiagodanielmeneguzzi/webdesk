@@ -133,7 +133,11 @@
   }
 }
 
-
+@media screen and (max-width: 600px) {
+  .correo {
+    font-size:small;
+  }
+}
 
 
 
