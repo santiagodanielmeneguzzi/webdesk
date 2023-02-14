@@ -40,7 +40,8 @@
     color: black;      
     box-shadow: 2px 3px 1px gray;
     margin-right: 10px;
-   background-color: white;
+    background-color: white;
+   
 }
 
 .body{
@@ -110,6 +111,8 @@
     font-weight: bold;
   }
 
+   
+
 
 
 .aside{
@@ -134,8 +137,10 @@
 }
 
 @media screen and (max-width: 600px) {
-  .correo {
-    font-size:9pt;
+  .datospersonales  {
+    
+    font-size: smaller;
+    
   }
 }
 
