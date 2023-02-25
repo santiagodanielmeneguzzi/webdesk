@@ -165,7 +165,9 @@
   .datospersonales  {
     
     font-size: smaller;
-    
+      }
+  .aside{
+  margin-top: 15%;
   }
 }
 
