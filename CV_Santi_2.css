@@ -166,7 +166,9 @@
     
     font-size: smaller;
       }
-  
+    .aside  {
+       margin-top: 30%;
+     }
 }
 
 @media screen and (max-width:800px) {
