@@ -118,9 +118,10 @@
 
    .contienecarrousel{
     height: 25%;
+    width: 100px;
     padding: 15px;
     margin-top: 0%;
-    margin-left: 30%;
+    margin-left: 15%;
     
     
   } 
