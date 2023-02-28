@@ -122,9 +122,9 @@
     width: 100px;
     padding: 15px;
     margin-top: 0%;
-    margin-left: 5%;
-   
-    transform: scale(0.8);
+    margin-left: 0%;
+    margin-right: 15%;
+    
   } 
 
   .carousel-indicators{
