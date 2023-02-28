@@ -57,9 +57,7 @@
   float: left;
   box-sizing: border-box;
   background-color: rgb(237, 233, 253);
-  display: flex;
-  align-items: center;
-  justify-content: center;
+ 
 }
 
 .section1{
@@ -124,7 +122,9 @@
     width: 100px;
     padding: 15px;
     margin-bottom: 45%;
-    
+    display: flex;
+    align-items: center;
+    justify-content: center;
     transform:scale(1.5);
     
   } 
