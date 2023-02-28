@@ -61,7 +61,7 @@
 
 .section1{
   /**border: 1px solid black;*/
-  height: 33%;
+  height: 25%;
   padding: 15px;
   text-align: center;
   border-bottom: 1px solid #312ee4;
@@ -77,7 +77,7 @@
 
 .section2{
   /**border: 1px solid black;*/
-  height: 33%;
+  height: 25%;
   padding: 15px;
   border-bottom: 1px solid #312ee4;
   }
@@ -98,7 +98,7 @@
 
   .section3{
     /**border: 1px solid black;*/
-    height: 33%;
+    height: 25%;
     padding: 15px;
     
   }
@@ -118,8 +118,8 @@
   }
 
    .contienecarrousel{
-    height: 100px;
-    width: 200px;
+    height: 25%;
+    
     margin-top: 0%;
     margin-left: 30%;
    
