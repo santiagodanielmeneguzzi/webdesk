@@ -121,7 +121,7 @@
     width: 200px;
     margin-top: 0%;
     margin-left: 30%;
-    margin-bottom: 30%;
+    
     
   } 
 
@@ -167,7 +167,7 @@
       }
     .contienecarrousel{
       transform: scale(0.8);
-       margin-top: -10%;
+       
       }
 }
 
