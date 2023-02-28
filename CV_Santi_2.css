@@ -165,10 +165,9 @@
     
     font-size: smaller;
       }
-  
-    .section{
-        margin-bottom: 10px;
-      }
+    .aside{
+      margin-top: 15%;
+    }
   
     .contienecarrousel{
       transform: scale(0.8);
