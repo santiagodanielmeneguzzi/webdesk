@@ -165,8 +165,9 @@
     
     font-size: smaller;
       }
-    
-    
+    .aside{
+     margin-top: 20px;
+    }
 }
 
 
