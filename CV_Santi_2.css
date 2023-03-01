@@ -62,7 +62,7 @@
 
 .section1{
   /**border: 1px solid black;*/
-  height: 25%;
+  height: 33%;
   padding: 15px;
   text-align: center;
   border-bottom: 1px solid #312ee4;
@@ -78,7 +78,7 @@
 
 .section2{
   /**border: 1px solid black;*/
-  height: 25%;
+  height: 33%;
   padding: 15px;
   border-bottom: 1px solid #312ee4;
   }
@@ -99,7 +99,7 @@
 
   .section3{
     /**border: 1px solid black;*/
-    height: 25%;
+    height: 33%;
     padding: 15px;
     
   }
@@ -117,26 +117,7 @@
     font-weight: bold;
   }
 
-   .contienecarrousel{
-    height: 80%;
-    width: 100%;
-    padding: 15px;
-    margin-bottom: 45%;
-    text-align: center;
-    
-    
-  } 
-
-  .carousel-indicators{
-    margin-bottom: -8.5%;
-   }
-
-  .carousel-control-prev{
-    margin-left: -15%;
-  }
-  .carousel-control-next{
-    margin-right: -15%;
-  }
+   
 
 
 
